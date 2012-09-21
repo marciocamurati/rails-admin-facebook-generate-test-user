@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      facebook_generate_test_user:
+        title: "Facebook Generate Test User"
+        menu: "Facebook Generate Test User for %{model_label} '%{object_label}'"
+        breadcrumb: "Facebook Generate Test User"
+        link: "Facebook Generate Test User"
+        bulk_link: "Facebook Generate Test User selected %{model_label_plural}"
+        done: "Facebook Generate Test Usered"
